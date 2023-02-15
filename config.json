@@ -1,9 +1,0 @@
-{
-    "superAdmin": [
-        "429771320964939787"
-    ],
-    "invite_url": "https://discord.com/api/oauth2/authorize?client_id=1075462792078970881&permissions=8&scope=bot",
-    "MONGO_URI": "mongodb+srv://JVRL:18102002@cluster0.g9y6jrj.mongodb.net/?retryWrites=true&w=majority",
-    "token": "MTA3NTQ2Mjc5MjA3ODk3MDg4MQ.Gecgew.PZpwVFNof5TF8Hotu5HuOm5cS0jQRdyAbgWlSE",
-    "prefix": "<disabled by default bus has support>"
-}
